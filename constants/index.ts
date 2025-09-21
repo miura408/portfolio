@@ -8,11 +8,11 @@ import {
 } from "react-icons/rx";
 
 export const AUTH = {
-  firstname: "Viktor",
-  lastname: "Hordovskyi",
-  fullname: "Viktor",
-  email: "hordovskyiviktor@gmail.com",
-  github: "viktor1128"
+  firstname: "miura",
+  lastname: "well",
+  fullname: "miurawell",
+  email: "miuraryo408@gmail.com",
+  github: "miura408"
 }
 
 export const SOCIALS = [
